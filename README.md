@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Robin 👋
 
 <!--
 **rlucassen/rlucassen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a Freelance Microsoft Software Architect & Engineer, currently working for Ortec. Optimizing business processes with software and getting things done by being pragmatic and optimizing my way of working 😁.
